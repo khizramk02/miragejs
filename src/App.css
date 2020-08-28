@@ -1,0 +1,14 @@
+.App table {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #ef3f49 
+}
+
+.App {
+  text-align: center;
+}
+
+.App button{
+  margin-top:  25px;
+  padding: 10px;
+}
